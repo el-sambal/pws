@@ -1,0 +1,24 @@
+0.1
+1
+ a
+ g
+ sigmoid cross-entropy
+0
+3600
+100
+15000
+ 1
+ 19
+ -6.5
+ 3000000
+0
+9-6.500000multithread_network34468.txt
+13--6.500000multithread_network1472.txt
+13-6.500000multithread_network540.txt
+19-6.500000multithread_network120118.txt
+19--6.500000multithread_network333201.txt
+19-6.500000multithread_network120090.txt
+19--6.500000multithread_network333199.txt
+19-6.500000multithread_network120078.txt
+19--6.500000multithread_network333073.txt
+19-6.500000multithread_network120054.txt

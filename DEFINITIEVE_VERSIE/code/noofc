@@ -1,0 +1,1 @@
+cd data ; cd .. && g++ -g -Wall -Wextra -Wconversion -pedantic -ansi -Wwrite-strings -c gui.cpp main.cpp athena.cpp go_rules.cpp train_go.cpp -std=c++17 -O0; g++ -g -o data/go gui.o main.o athena.o train_go.o go_rules.o -lSDL2 -O0 -pthread; cd data
